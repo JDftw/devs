@@ -559,5 +559,17 @@
             "facebook": "https://www.facebook.com/nickrgamer04",
             "linkedin": "https://www.linkedin.com/in/nichole-john-talban-romero/"
         }
+    },
+    {
+        "name": "Julie Ann Delda",
+        "roles": [
+            "Student"
+        ],
+        "about": "Flutter novice",
+        "username": "JDftw",
+        "socials": {
+            "facebook": "https://www.facebook.com/JAGD21/",
+            "linkedin": "https://www.linkedin.com/in/julie-ann-delda-3478ab131/"
+        }
     }
 ]
